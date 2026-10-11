@@ -1,0 +1,9 @@
+.venv
+.uv-cache
+legacy
+*.docx
+*.pdf
+dist
+__pycache__
+.git
+.streamlit/secrets.toml
